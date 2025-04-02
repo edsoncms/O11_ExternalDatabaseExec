@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutSystems.NssExternalDatabaseExec</name>
+    </assembly>
+    <members>
+        <member name="M:OutSystems.NssExternalDatabaseExec.CssExternalDatabaseExec.MssExecInsUpdDel(System.String,System.String,System.String@)">
+            <summary>
+            Executes Insert, Update and Delete instructions/commands
+            </summary>
+            <param name="ssDBConnectionName"></param>
+            <param name="ssCommand"></param>
+            <param name="ssErrorMessage"></param>
+        </member>
+        <member name="M:OutSystems.NssExternalDatabaseExec.CssExternalDatabaseExec.MssExecQuery(System.String,System.String,System.String@,System.String@)">
+            <summary>
+            Executes SQL queries and returns a JSON with the result
+            </summary>
+            <param name="ssDBConnectionName"></param>
+            <param name="ssQuery"></param>
+            <param name="ssResult"></param>
+            <param name="ssErrorMessage"></param>
+        </member>
+        <member name="M:OutSystems.NssExternalDatabaseExec.IssExternalDatabaseExec.MssExecInsUpdDel(System.String,System.String,System.String@)">
+            <summary>
+            Executes Insert, Update and Delete instructions/commands
+            </summary>
+            <param name="ssDBConnectionName">Database Connection Name (same name configured in Service Center)</param>
+            <param name="ssCommand"></param>
+            <param name="ssErrorMessage"></param>
+        </member>
+        <member name="M:OutSystems.NssExternalDatabaseExec.IssExternalDatabaseExec.MssExecQuery(System.String,System.String,System.String@,System.String@)">
+            <summary>
+            Executes SQL queries and returns a JSON with the result
+            </summary>
+            <param name="ssDBConnectionName">Database Connection Name (same name configured in Service Center)</param>
+            <param name="ssQuery"></param>
+            <param name="ssResult"></param>
+            <param name="ssErrorMessage"></param>
+        </member>
+    </members>
+</doc>

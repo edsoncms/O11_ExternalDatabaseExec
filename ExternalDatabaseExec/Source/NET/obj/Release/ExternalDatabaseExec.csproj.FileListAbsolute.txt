@@ -1,0 +1,14 @@
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\OutSystems.NssExternalDatabaseExec.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\OutSystems.NssExternalDatabaseExec.xml
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Text.Json.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Memory.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Text.Encodings.Web.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Numerics.Vectors.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Buffers.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\obj\Release\ExternalDatabaseExec.csproj.AssemblyReference.cache
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\obj\Release\ExternalDatabaseExec.csproj.CoreCompileInputs.cache
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\obj\Release\ExternalDatabaseExec.csproj.CopyComplete
+C:\Users\edson.santos\OneDrive - Certsys Tecnologia da Informação LTDA\Área de Trabalho\Forge - comp ExternalDB_SQL\ExternalDatabaseExec\Source\NET\obj\Release\OutSystems.NssExternalDatabaseExec.dll
